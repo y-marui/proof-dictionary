@@ -2,13 +2,14 @@ id: 01BQ92YYBJENZB6M480KCJ0J99
 description: ''
 expected: スピン軌道
 patterns:
-  - スピン起動
+  - /スピン起動/i
 allows: []
 specs:
-  - from: Jquery
-    to: Jquery
-  - from: jquery
-    to: jquery
-  - from: jquery-ui
-    to: jquery-ui
-tags: []
+  - from: これは、スピン起動相互作用が
+    to: これは、スピン軌道相互作用が
+  - from: スピン軌道
+    to: スピン軌道
+  - from: スピン起動
+    to: スピン軌道
+tags:
+  - noun
