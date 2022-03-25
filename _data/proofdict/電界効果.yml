@@ -11,4 +11,5 @@ specs:
     to: 電気効果
   - from: 電解効果
     to: 電界効果
-tags: []
+tags:
+  - noun
