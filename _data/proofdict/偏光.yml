@@ -1,0 +1,15 @@
+id: 01FZ06SE9YB9KB9REATBBK5ZAF
+description: ''
+expected: 偏光
+patterns:
+  - /変更/i
+allows: []
+specs:
+  - from: 偏光
+    to: 偏光
+  - from: 変更
+    to: 偏光
+  - from: s変更を入射すると
+    to: s偏光を入射すると
+tags:
+  - noun
