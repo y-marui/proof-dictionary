@@ -1,0 +1,11 @@
+id: 01FZ0F7GSEBJGCFN9DTRZHATFB
+description: 横方向
+expected: 横方向
+patterns:
+  - ホール方向
+allows: []
+specs:
+  - from: ホール方向
+    to: 横方向
+tags:
+  - noun
