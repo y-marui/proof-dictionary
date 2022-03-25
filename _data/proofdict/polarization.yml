@@ -1,0 +1,14 @@
+id: 01FZ0EQKXV3XCBMJ6VAPXYETMY
+description: 偏光
+expected: 偏光
+patterns:
+  - 変更
+  - 偏向
+allows: []
+specs:
+  - from: 変更
+    to: 偏光
+  - from: 偏向
+    to: 偏光
+tags:
+  - noun
