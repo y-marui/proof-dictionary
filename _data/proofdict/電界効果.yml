@@ -2,7 +2,7 @@ id: 01BQ92YYBJENZB6M480KCJ0J99
 description: ''
 expected: 電界効果
 patterns:
-  - 電解効果
+  - /電解効果/i
 allows: []
 specs:
   - from: 電界効果
