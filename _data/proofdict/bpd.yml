@@ -1,0 +1,17 @@
+id: 01FZ0EYT8G4KXZA63YGDACG4ZS
+description: 差分フォトディテクター
+expected: 差分フォトディテクター
+patterns:
+  - /(差分|バランス)フォトディテクター*/
+allows: []
+specs:
+  - from: 差分フォトディテクタ
+    to: 差分フォトディテクター
+  - from: 差分フォトディテクター
+    to: 差分フォトディテクター
+  - from: バランスフォトディテクタ
+    to: 差分フォトディテクター
+  - from: バランスフォトディテクター
+    to: 差分フォトディテクター
+tags:
+  - noun
