@@ -1,0 +1,13 @@
+id: 01FZ0N5H33ETYAANZZM6DYEW1R
+description: 電磁相互作用
+expected: 電磁相互作用
+patterns:
+  - /電気?磁気?相互作用/
+allows: []
+specs:
+  - from: 電気磁気相互作用
+    to: 電磁相互作用
+  - from: 電磁気相互作用
+    to: 電磁相互作用
+tags:
+  - noun
