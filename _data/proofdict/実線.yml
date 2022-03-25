@@ -1,0 +1,14 @@
+id: 01FZ0B4TWW6KRGNX4KGAYG3NZW
+description: 実線
+expected: 実線
+patterns:
+  - 実戦
+  - 実践
+allows: []
+specs:
+  - from: 実戦
+    to: 実線
+  - from: 実践
+    to: 実線
+tags:
+  - noun
