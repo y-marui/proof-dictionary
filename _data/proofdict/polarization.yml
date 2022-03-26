@@ -4,11 +4,15 @@ expected: 偏光
 patterns:
   - 変更
   - 偏向
-allows: []
+allows:
+  - 変更する
 specs:
   - from: 変更
     to: 偏光
   - from: 偏向
     to: 偏光
+  - from: 次の様に変更する
+    to: 次の様に変更する
 tags:
   - noun
+
