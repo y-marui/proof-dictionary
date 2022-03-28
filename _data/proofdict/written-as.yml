@@ -1,0 +1,10 @@
+id: 01FZ7FWY6TFNX1ZX3MCACJ74HM
+description: 書ける
+expected: 書ける
+patterns:
+  - かける
+allows: []
+specs:
+  - from: かける
+    to: 書ける
+tags: []
