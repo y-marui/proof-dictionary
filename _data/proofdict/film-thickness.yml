@@ -1,0 +1,11 @@
+id: 01FZ73ZDXP3DCTW09NQ18VXTYX
+description: 膜厚
+expected: 膜厚
+patterns:
+  - 膜圧
+allows: []
+specs:
+  - from: 膜圧
+    to: 膜厚
+tags:
+  - noun
