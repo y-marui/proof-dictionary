@@ -1,0 +1,10 @@
+id: 01FZ8EFDY8YQ246PZGYFXPA57V
+description: オーバースプレー
+expected: オーバースプレー
+patterns:
+  - オーバースプレッド
+allows: []
+specs:
+  - from: オーバースプレッド
+    to: オーバースプレー
+tags: []
