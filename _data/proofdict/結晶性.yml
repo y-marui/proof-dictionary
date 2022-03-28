@@ -1,0 +1,10 @@
+id: 01FZ8ERRPXWB5MWGGMCWAPXC4F
+description: 結晶性
+expected: 結晶性
+patterns:
+  - 結晶星
+allows: []
+specs:
+  - from: 結晶星
+    to: 結晶性
+tags: []
