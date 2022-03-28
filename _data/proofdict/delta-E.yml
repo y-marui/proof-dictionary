@@ -1,0 +1,11 @@
+id: 01FZ77JTWFCKVRKRRNZQMES719
+description: エネルギー差
+expected: エネルギー差
+patterns:
+  - エネルギーさ
+allows: []
+specs:
+  - from: エネルギーさ
+    to: エネルギー差
+tags:
+  - noun
