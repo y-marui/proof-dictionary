@@ -2,7 +2,7 @@ id: 01FZ0EYT8G4KXZA63YGDACG4ZS
 description: 差分フォトディテクター
 expected: 差分フォトディテクター
 patterns:
-  - /(差分|バランス)フォトディテクター*/
+  - /(差分|バランス)フォトディテクター*/i
 allows: []
 specs:
   - from: 差分フォトディテクタ

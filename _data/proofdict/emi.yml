@@ -2,7 +2,7 @@ id: 01FZ0N5H33ETYAANZZM6DYEW1R
 description: 電磁相互作用
 expected: 電磁相互作用
 patterns:
-  - /電気?磁気?相互作用/
+  - /電気?磁気?相互作用/i
 allows: []
 specs:
   - from: 電気磁気相互作用
