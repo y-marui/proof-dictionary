@@ -1,0 +1,10 @@
+id: 01FZ8B794JPBQ0XF1JQTBCXEB0
+description: 気体絶縁破壊
+expected: 気体絶縁破壊
+patterns:
+  - 期待絶縁破壊
+allows: []
+specs:
+  - from: 期待絶縁破壊
+    to: 気体絶縁破壊
+tags: []
