@@ -1,0 +1,11 @@
+id: 01FZ7FWY6TFNX1ZX3MCACJ74HM
+description: 異方性磁気抵抗効果
+expected: 異方性磁気抵抗効果
+patterns:
+  - 異方向性磁気抵抗効果
+allows: []
+specs:
+  - from: 異方向性磁気抵抗効果
+    to: 異方性磁気抵抗効果
+tags:
+  - noun
