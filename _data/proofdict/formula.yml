@@ -1,0 +1,11 @@
+id: 01FZ7AT0B4NVPEZ9BH85HAVXCJ
+description: 表式
+expected: 表式
+patterns:
+  - 標識
+allows: []
+specs:
+  - from: 標識
+    to: 表式
+tags:
+  - noun
