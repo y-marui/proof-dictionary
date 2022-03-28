@@ -1,0 +1,10 @@
+id: 01FZ8ETEEDYBCJYAPP2H5X5PVE
+description: 成膜速度
+expected: 成膜速度
+patterns:
+  - 蒸着速度
+allows: []
+specs:
+  - from: 蒸着速度
+    to: 成膜速度
+tags: []
