@@ -6,6 +6,9 @@ patterns:
   - 偏向
 allows:
   - /変更(する|され|して)/i
+  - 変更する
+  - 変更され
+  - 変更して
 specs:
   - from: 変更
     to: 偏光
@@ -13,6 +16,5 @@ specs:
     to: 偏光
   - from: 次の様に変更する
     to: 次の様に変更する
-tags:
-  - noun
+tags: []
 

@@ -7,5 +7,4 @@ allows: []
 specs:
   - from: ホール方向
     to: 横方向
-tags:
-  - noun
+tags: []

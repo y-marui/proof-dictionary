@@ -7,5 +7,4 @@ allows: []
 specs:
   - from: 膜圧
     to: 膜厚
-tags:
-  - noun
+tags: []
