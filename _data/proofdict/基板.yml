@@ -1,0 +1,10 @@
+id: 01FZ8EGYKSZD8CZSVAKA0131GT
+description: 基板
+expected: 基板
+patterns:
+  - 基盤
+allows: []
+specs:
+  - from: 基盤
+    to: 基板
+tags: []
