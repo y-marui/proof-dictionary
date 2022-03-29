@@ -1,0 +1,15 @@
+id: 01FZ9Q1N8K3AAQR6FPDV8GEHD9
+description: ''
+expected: 磁気抵抗$1
+patterns:
+  - /磁気抗(.)/i
+  - '/磁気抵([^抗])/i'
+allows: []
+specs:
+  - from: 磁気抵は
+    to: 磁気抵抗は
+  - from: 磁気抗は
+    to: 磁気抵抗は
+  - from: 磁気抵抗効果
+    to: 磁気抵抗効果
+tags: []
