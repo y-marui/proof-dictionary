@@ -1,0 +1,12 @@
+id: 01FZ9QAN6WGNHN1D6EM14N0QCB
+description: ''
+expected: Berry$1
+patterns:
+  - /ベリー(曲率|接続)/i
+allows: []
+specs:
+  - from: ベリー曲率
+    to: Berry曲率
+  - from: ベリー接続
+    to: Berry接続
+tags: []
