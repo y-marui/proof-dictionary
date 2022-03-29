@@ -8,3 +8,4 @@ header_pages:
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
+repository: y-marui/proof-dictionary
