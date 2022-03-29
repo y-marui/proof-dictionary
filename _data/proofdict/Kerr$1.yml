@@ -1,0 +1,12 @@
+id: 01FZ9SEZGFD2EF4ZMRDQ0GMEN8
+description: ''
+expected: Kerr$1
+patterns:
+  - /カー(回転|効果)/i
+allows: []
+specs:
+  - from: カー回転角
+    to: Kerr回転角
+  - from: カー効果
+    to: Kerr効果
+tags: []
