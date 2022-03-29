@@ -1,0 +1,10 @@
+id: 01FZABYD6K58CF7BETPPM13AH2
+description: ''
+expected: 行った
+patterns:
+  - 行た
+allows: []
+specs:
+  - from: 行た
+    to: 行った
+tags: []
