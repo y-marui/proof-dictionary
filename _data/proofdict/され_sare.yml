@@ -1,0 +1,10 @@
+id: 01FZCRV47YP8RQH4FG5V15502G
+description: ''
+expected: され
+patterns:
+  - されれ
+allows: []
+specs:
+  - from: されれ
+    to: され
+tags: []
