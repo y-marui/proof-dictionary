@@ -1,0 +1,12 @@
+id: 01FZCPZ7S7MW1E1V6CZ50FNSA4
+description: 「わかる」は使わない。
+expected: $2
+patterns:
+  - /る(と|ことが|ことも|が|も)わかか?(る|り)/i
+allows: []
+specs:
+  - from: 移動することがわかる。
+    to: 移動する。
+  - from: 移動することがわかり、
+    to: 移動すり、
+tags: []
