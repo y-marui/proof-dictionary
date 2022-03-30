@@ -1,0 +1,13 @@
+id: 01FZCDBA6SFQDCR3K6VD23B6V9
+description: ''
+expected: を加える
+patterns:
+  - が加える
+allows: []
+specs:
+  - from: が加わる
+    to: が加わる
+  - from: が加える
+    to: を加える
+tags:
+  - opinion
