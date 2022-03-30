@@ -1,0 +1,10 @@
+id: 01FZCM2NJ4W21CJ8J3EPTX8G7Q
+description: ''
+expected: られる
+patterns:
+  - られれる
+allows: []
+specs:
+  - from: られれる
+    to: られる
+tags: []
