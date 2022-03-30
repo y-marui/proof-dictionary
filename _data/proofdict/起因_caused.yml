@@ -1,0 +1,10 @@
+id: 01FZCGBRSP8GXY52EXV9RQRMXN
+description: ''
+expected: 起因
+patterns:
+  - 起因ん
+allows: []
+specs:
+  - from: 起因ん
+    to: 起因
+tags: []
