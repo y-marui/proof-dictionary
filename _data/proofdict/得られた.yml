@@ -1,0 +1,10 @@
+id: 01FZCPQGQHKG5G20687ZPJJKGM
+description: ''
+expected: 得られた
+patterns:
+  - 得られた得られた
+allows: []
+specs:
+  - from: 得られた得られた
+    to: 得られた
+tags: []
