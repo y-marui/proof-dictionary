@@ -1,0 +1,12 @@
+id: 01FZCS10ZZK8KECKEN7MZWZH2E
+description: 「考えられる」は使わない。一般的な意見の場合は、「考えられている」。
+expected: $1
+patterns:
+  - '/(.)(こと)?[とがも]考えられる/'
+allows: []
+specs:
+  - from: 動かすことも考えられる
+    to: 動かす
+  - from: 赤くなることも考えられる
+    to: 赤くなる
+tags: []
