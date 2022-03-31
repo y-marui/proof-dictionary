@@ -1,0 +1,10 @@
+id: 01FZEMKBMKES3XNSCEF9R99F0R
+description: ''
+expected: 電界効果
+patterns:
+  - 電解効果
+allows: []
+specs:
+  - from: 電解効果
+    to: 電界効果
+tags: []
