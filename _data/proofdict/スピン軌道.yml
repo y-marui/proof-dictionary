@@ -1,0 +1,13 @@
+id: 01FZ0BZBJ2CPNT1FKF2P6HFZZB
+description: スピン起動
+expected: スピン軌道
+patterns:
+  - スピン起動
+  - スピン機動
+allows: []
+specs:
+  - from: スピン起動
+    to: スピン軌道
+  - from: スピン機動
+    to: スピン軌道
+tags: []
