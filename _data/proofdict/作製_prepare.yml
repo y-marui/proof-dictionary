@@ -1,0 +1,10 @@
+id: 01G2P5FT6NX700TZSVSSTQNMKP
+description: ''
+expected: 作製
+patterns:
+  - 作成
+allows: []
+specs:
+  - from: 作成
+    to: 作製
+tags: []
