@@ -1,0 +1,10 @@
+id: 01G2S85M18XK03T12TKBVM1MX8
+description: ''
+expected: 依らない
+patterns:
+  - 寄らない
+allows: []
+specs:
+  - from: 寄らない
+    to: 依らない
+tags: []
