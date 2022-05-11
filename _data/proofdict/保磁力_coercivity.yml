@@ -1,0 +1,10 @@
+id: 01G2S7KMA87Z0649T685EZ5SZB
+description: ''
+expected: 保磁力
+patterns:
+  - 保持力
+allows: []
+specs:
+  - from: 保持力
+    to: 保磁力
+tags: []
