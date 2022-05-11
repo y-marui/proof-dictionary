@@ -1,0 +1,10 @@
+id: 01G2S82Z0VJGN9QR83CQ6C8YY7
+description: ''
+expected: 波長板
+patterns:
+  - 波長版
+allows: []
+specs:
+  - from: 波長版
+    to: 波長板
+tags: []
