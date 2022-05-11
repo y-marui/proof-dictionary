@@ -1,0 +1,10 @@
+id: 01G2S8189BTZB1DNP7FFNK2BA7
+description: ''
+expected: MgO
+patterns:
+  - Mg0
+allows: []
+specs:
+  - from: Mg0
+    to: MgO
+tags: []
