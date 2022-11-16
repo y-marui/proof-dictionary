@@ -1,0 +1,12 @@
+id: 01GJ1996EWKBNNS3BYGXV5Q53V
+description: ''
+expected: Rashba
+patterns:
+  - /ラッ?シュバ/i
+allows: []
+specs:
+  - from: ラシュバ
+    to: Rashba
+  - from: ラッシュバ
+    to: Rashba
+tags: []
